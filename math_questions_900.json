@@ -1,0 +1,6302 @@
+[
+  {
+    "id": "Q0001",
+    "level": "easy",
+    "soal": "2 × 1 = ?",
+    "jawaban": "2",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0002",
+    "level": "easy",
+    "soal": "5 × 4 = ?",
+    "jawaban": "20",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0003",
+    "level": "easy",
+    "soal": "5 + 4 = ?",
+    "jawaban": "9",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0004",
+    "level": "easy",
+    "soal": "9 × 2 = ?",
+    "jawaban": "18",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0005",
+    "level": "easy",
+    "soal": "7 × 1 = ?",
+    "jawaban": "7",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0006",
+    "level": "easy",
+    "soal": "3 + 7 = ?",
+    "jawaban": "10",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0007",
+    "level": "easy",
+    "soal": "17 + 20 = ?",
+    "jawaban": "37",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0008",
+    "level": "easy",
+    "soal": "18 + 7 = ?",
+    "jawaban": "25",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0009",
+    "level": "easy",
+    "soal": "9 × 7 = ?",
+    "jawaban": "63",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0010",
+    "level": "easy",
+    "soal": "15 + 19 = ?",
+    "jawaban": "34",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0011",
+    "level": "easy",
+    "soal": "1 - 1 = ?",
+    "jawaban": "0",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0012",
+    "level": "easy",
+    "soal": "7 × 6 = ?",
+    "jawaban": "42",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0013",
+    "level": "easy",
+    "soal": "5 - 2 = ?",
+    "jawaban": "3",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0014",
+    "level": "easy",
+    "soal": "4 - 1 = ?",
+    "jawaban": "3",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0015",
+    "level": "easy",
+    "soal": "4 - 3 = ?",
+    "jawaban": "1",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0016",
+    "level": "easy",
+    "soal": "20 - 9 = ?",
+    "jawaban": "11",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0017",
+    "level": "easy",
+    "soal": "15 + 18 = ?",
+    "jawaban": "33",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0018",
+    "level": "easy",
+    "soal": "13 + 3 = ?",
+    "jawaban": "16",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0019",
+    "level": "easy",
+    "soal": "5 × 10 = ?",
+    "jawaban": "50",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0020",
+    "level": "easy",
+    "soal": "19 - 7 = ?",
+    "jawaban": "12",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0021",
+    "level": "easy",
+    "soal": "2 × 1 = ?",
+    "jawaban": "2",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0022",
+    "level": "easy",
+    "soal": "4 × 5 = ?",
+    "jawaban": "20",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0023",
+    "level": "easy",
+    "soal": "8 + 4 = ?",
+    "jawaban": "12",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0024",
+    "level": "easy",
+    "soal": "9 - 8 = ?",
+    "jawaban": "1",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0025",
+    "level": "easy",
+    "soal": "6 × 3 = ?",
+    "jawaban": "18",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0026",
+    "level": "easy",
+    "soal": "12 - 4 = ?",
+    "jawaban": "8",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0027",
+    "level": "easy",
+    "soal": "5 × 2 = ?",
+    "jawaban": "10",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0028",
+    "level": "easy",
+    "soal": "3 × 9 = ?",
+    "jawaban": "27",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0029",
+    "level": "easy",
+    "soal": "4 × 3 = ?",
+    "jawaban": "12",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0030",
+    "level": "easy",
+    "soal": "13 - 5 = ?",
+    "jawaban": "8",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0031",
+    "level": "easy",
+    "soal": "9 × 4 = ?",
+    "jawaban": "36",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0032",
+    "level": "easy",
+    "soal": "6 × 1 = ?",
+    "jawaban": "6",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0033",
+    "level": "easy",
+    "soal": "2 + 11 = ?",
+    "jawaban": "13",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0034",
+    "level": "easy",
+    "soal": "9 - 2 = ?",
+    "jawaban": "7",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0035",
+    "level": "easy",
+    "soal": "19 + 11 = ?",
+    "jawaban": "30",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0036",
+    "level": "easy",
+    "soal": "16 + 13 = ?",
+    "jawaban": "29",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0037",
+    "level": "easy",
+    "soal": "8 × 3 = ?",
+    "jawaban": "24",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0038",
+    "level": "easy",
+    "soal": "5 - 2 = ?",
+    "jawaban": "3",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0039",
+    "level": "easy",
+    "soal": "9 × 9 = ?",
+    "jawaban": "81",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0040",
+    "level": "easy",
+    "soal": "19 - 14 = ?",
+    "jawaban": "5",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0041",
+    "level": "easy",
+    "soal": "7 × 6 = ?",
+    "jawaban": "42",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0042",
+    "level": "easy",
+    "soal": "5 + 17 = ?",
+    "jawaban": "22",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0043",
+    "level": "easy",
+    "soal": "3 - 1 = ?",
+    "jawaban": "2",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0044",
+    "level": "easy",
+    "soal": "5 + 6 = ?",
+    "jawaban": "11",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0045",
+    "level": "easy",
+    "soal": "7 × 10 = ?",
+    "jawaban": "70",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0046",
+    "level": "easy",
+    "soal": "13 + 13 = ?",
+    "jawaban": "26",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0047",
+    "level": "easy",
+    "soal": "8 × 9 = ?",
+    "jawaban": "72",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0048",
+    "level": "easy",
+    "soal": "18 - 1 = ?",
+    "jawaban": "17",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0049",
+    "level": "easy",
+    "soal": "2 × 9 = ?",
+    "jawaban": "18",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0050",
+    "level": "easy",
+    "soal": "11 - 2 = ?",
+    "jawaban": "9",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0051",
+    "level": "easy",
+    "soal": "14 - 3 = ?",
+    "jawaban": "11",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0052",
+    "level": "easy",
+    "soal": "1 - 1 = ?",
+    "jawaban": "0",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0053",
+    "level": "easy",
+    "soal": "3 × 9 = ?",
+    "jawaban": "27",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0054",
+    "level": "easy",
+    "soal": "10 + 17 = ?",
+    "jawaban": "27",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0055",
+    "level": "easy",
+    "soal": "4 × 3 = ?",
+    "jawaban": "12",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0056",
+    "level": "easy",
+    "soal": "6 - 5 = ?",
+    "jawaban": "1",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0057",
+    "level": "easy",
+    "soal": "1 × 10 = ?",
+    "jawaban": "10",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0058",
+    "level": "easy",
+    "soal": "16 - 1 = ?",
+    "jawaban": "15",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0059",
+    "level": "easy",
+    "soal": "12 + 10 = ?",
+    "jawaban": "22",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0060",
+    "level": "easy",
+    "soal": "2 + 8 = ?",
+    "jawaban": "10",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0061",
+    "level": "easy",
+    "soal": "2 × 2 = ?",
+    "jawaban": "4",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0062",
+    "level": "easy",
+    "soal": "8 × 2 = ?",
+    "jawaban": "16",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0063",
+    "level": "easy",
+    "soal": "3 × 3 = ?",
+    "jawaban": "9",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0064",
+    "level": "easy",
+    "soal": "8 × 9 = ?",
+    "jawaban": "72",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0065",
+    "level": "easy",
+    "soal": "9 + 17 = ?",
+    "jawaban": "26",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0066",
+    "level": "easy",
+    "soal": "7 × 4 = ?",
+    "jawaban": "28",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0067",
+    "level": "easy",
+    "soal": "4 × 5 = ?",
+    "jawaban": "20",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0068",
+    "level": "easy",
+    "soal": "12 - 8 = ?",
+    "jawaban": "4",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0069",
+    "level": "easy",
+    "soal": "8 × 2 = ?",
+    "jawaban": "16",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0070",
+    "level": "easy",
+    "soal": "8 + 3 = ?",
+    "jawaban": "11",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0071",
+    "level": "easy",
+    "soal": "1 - 1 = ?",
+    "jawaban": "0",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0072",
+    "level": "easy",
+    "soal": "4 × 1 = ?",
+    "jawaban": "4",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0073",
+    "level": "easy",
+    "soal": "2 + 8 = ?",
+    "jawaban": "10",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0074",
+    "level": "easy",
+    "soal": "2 + 11 = ?",
+    "jawaban": "13",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0075",
+    "level": "easy",
+    "soal": "17 + 8 = ?",
+    "jawaban": "25",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0076",
+    "level": "easy",
+    "soal": "16 - 7 = ?",
+    "jawaban": "9",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0077",
+    "level": "easy",
+    "soal": "3 × 10 = ?",
+    "jawaban": "30",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0078",
+    "level": "easy",
+    "soal": "8 × 4 = ?",
+    "jawaban": "32",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0079",
+    "level": "easy",
+    "soal": "14 - 4 = ?",
+    "jawaban": "10",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0080",
+    "level": "easy",
+    "soal": "4 + 14 = ?",
+    "jawaban": "18",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0081",
+    "level": "easy",
+    "soal": "14 - 7 = ?",
+    "jawaban": "7",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0082",
+    "level": "easy",
+    "soal": "2 - 1 = ?",
+    "jawaban": "1",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0083",
+    "level": "easy",
+    "soal": "13 + 11 = ?",
+    "jawaban": "24",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0084",
+    "level": "easy",
+    "soal": "8 + 7 = ?",
+    "jawaban": "15",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0085",
+    "level": "easy",
+    "soal": "18 + 15 = ?",
+    "jawaban": "33",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0086",
+    "level": "easy",
+    "soal": "14 + 6 = ?",
+    "jawaban": "20",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0087",
+    "level": "easy",
+    "soal": "15 - 4 = ?",
+    "jawaban": "11",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0088",
+    "level": "easy",
+    "soal": "15 + 18 = ?",
+    "jawaban": "33",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0089",
+    "level": "easy",
+    "soal": "2 + 18 = ?",
+    "jawaban": "20",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0090",
+    "level": "easy",
+    "soal": "3 + 8 = ?",
+    "jawaban": "11",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0091",
+    "level": "easy",
+    "soal": "14 + 16 = ?",
+    "jawaban": "30",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0092",
+    "level": "easy",
+    "soal": "7 - 7 = ?",
+    "jawaban": "0",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0093",
+    "level": "easy",
+    "soal": "2 - 1 = ?",
+    "jawaban": "1",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0094",
+    "level": "easy",
+    "soal": "1 - 1 = ?",
+    "jawaban": "0",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0095",
+    "level": "easy",
+    "soal": "15 - 5 = ?",
+    "jawaban": "10",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0096",
+    "level": "easy",
+    "soal": "18 - 16 = ?",
+    "jawaban": "2",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0097",
+    "level": "easy",
+    "soal": "7 + 10 = ?",
+    "jawaban": "17",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0098",
+    "level": "easy",
+    "soal": "2 + 19 = ?",
+    "jawaban": "21",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0099",
+    "level": "easy",
+    "soal": "9 × 1 = ?",
+    "jawaban": "9",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0100",
+    "level": "easy",
+    "soal": "6 × 1 = ?",
+    "jawaban": "6",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0101",
+    "level": "easy",
+    "soal": "19 + 16 = ?",
+    "jawaban": "35",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0102",
+    "level": "easy",
+    "soal": "9 × 3 = ?",
+    "jawaban": "27",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0103",
+    "level": "easy",
+    "soal": "17 + 3 = ?",
+    "jawaban": "20",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0104",
+    "level": "easy",
+    "soal": "3 + 20 = ?",
+    "jawaban": "23",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0105",
+    "level": "easy",
+    "soal": "8 + 13 = ?",
+    "jawaban": "21",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0106",
+    "level": "easy",
+    "soal": "19 + 8 = ?",
+    "jawaban": "27",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0107",
+    "level": "easy",
+    "soal": "10 × 1 = ?",
+    "jawaban": "10",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0108",
+    "level": "easy",
+    "soal": "2 × 7 = ?",
+    "jawaban": "14",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0109",
+    "level": "easy",
+    "soal": "10 × 10 = ?",
+    "jawaban": "100",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0110",
+    "level": "easy",
+    "soal": "6 × 5 = ?",
+    "jawaban": "30",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0111",
+    "level": "easy",
+    "soal": "11 + 8 = ?",
+    "jawaban": "19",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0112",
+    "level": "easy",
+    "soal": "13 - 3 = ?",
+    "jawaban": "10",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0113",
+    "level": "easy",
+    "soal": "5 × 8 = ?",
+    "jawaban": "40",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0114",
+    "level": "easy",
+    "soal": "3 - 1 = ?",
+    "jawaban": "2",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0115",
+    "level": "easy",
+    "soal": "20 - 19 = ?",
+    "jawaban": "1",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0116",
+    "level": "easy",
+    "soal": "3 + 18 = ?",
+    "jawaban": "21",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0117",
+    "level": "easy",
+    "soal": "17 + 9 = ?",
+    "jawaban": "26",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0118",
+    "level": "easy",
+    "soal": "12 + 3 = ?",
+    "jawaban": "15",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0119",
+    "level": "easy",
+    "soal": "12 + 10 = ?",
+    "jawaban": "22",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0120",
+    "level": "easy",
+    "soal": "15 + 18 = ?",
+    "jawaban": "33",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0121",
+    "level": "easy",
+    "soal": "5 × 10 = ?",
+    "jawaban": "50",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0122",
+    "level": "easy",
+    "soal": "9 × 1 = ?",
+    "jawaban": "9",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0123",
+    "level": "easy",
+    "soal": "9 × 5 = ?",
+    "jawaban": "45",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0124",
+    "level": "easy",
+    "soal": "2 × 3 = ?",
+    "jawaban": "6",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0125",
+    "level": "easy",
+    "soal": "4 - 1 = ?",
+    "jawaban": "3",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0126",
+    "level": "easy",
+    "soal": "9 × 3 = ?",
+    "jawaban": "27",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0127",
+    "level": "easy",
+    "soal": "10 - 10 = ?",
+    "jawaban": "0",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0128",
+    "level": "easy",
+    "soal": "11 + 7 = ?",
+    "jawaban": "18",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0129",
+    "level": "easy",
+    "soal": "5 × 9 = ?",
+    "jawaban": "45",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0130",
+    "level": "easy",
+    "soal": "9 - 1 = ?",
+    "jawaban": "8",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0131",
+    "level": "easy",
+    "soal": "14 + 9 = ?",
+    "jawaban": "23",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0132",
+    "level": "easy",
+    "soal": "1 + 11 = ?",
+    "jawaban": "12",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0133",
+    "level": "easy",
+    "soal": "9 + 6 = ?",
+    "jawaban": "15",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0134",
+    "level": "easy",
+    "soal": "8 × 9 = ?",
+    "jawaban": "72",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0135",
+    "level": "easy",
+    "soal": "7 × 9 = ?",
+    "jawaban": "63",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0136",
+    "level": "easy",
+    "soal": "4 + 3 = ?",
+    "jawaban": "7",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0137",
+    "level": "easy",
+    "soal": "3 × 9 = ?",
+    "jawaban": "27",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0138",
+    "level": "easy",
+    "soal": "12 + 19 = ?",
+    "jawaban": "31",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0139",
+    "level": "easy",
+    "soal": "3 × 7 = ?",
+    "jawaban": "21",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0140",
+    "level": "easy",
+    "soal": "2 + 10 = ?",
+    "jawaban": "12",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0141",
+    "level": "easy",
+    "soal": "2 - 2 = ?",
+    "jawaban": "0",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0142",
+    "level": "easy",
+    "soal": "8 + 4 = ?",
+    "jawaban": "12",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0143",
+    "level": "easy",
+    "soal": "18 - 14 = ?",
+    "jawaban": "4",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0144",
+    "level": "easy",
+    "soal": "3 × 4 = ?",
+    "jawaban": "12",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0145",
+    "level": "easy",
+    "soal": "6 + 14 = ?",
+    "jawaban": "20",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0146",
+    "level": "easy",
+    "soal": "6 + 11 = ?",
+    "jawaban": "17",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0147",
+    "level": "easy",
+    "soal": "8 - 5 = ?",
+    "jawaban": "3",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0148",
+    "level": "easy",
+    "soal": "4 + 13 = ?",
+    "jawaban": "17",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0149",
+    "level": "easy",
+    "soal": "16 + 8 = ?",
+    "jawaban": "24",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0150",
+    "level": "easy",
+    "soal": "15 + 12 = ?",
+    "jawaban": "27",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0151",
+    "level": "easy",
+    "soal": "8 - 4 = ?",
+    "jawaban": "4",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0152",
+    "level": "easy",
+    "soal": "7 + 13 = ?",
+    "jawaban": "20",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0153",
+    "level": "easy",
+    "soal": "9 - 2 = ?",
+    "jawaban": "7",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0154",
+    "level": "easy",
+    "soal": "12 - 11 = ?",
+    "jawaban": "1",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0155",
+    "level": "easy",
+    "soal": "7 × 9 = ?",
+    "jawaban": "63",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0156",
+    "level": "easy",
+    "soal": "1 - 1 = ?",
+    "jawaban": "0",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0157",
+    "level": "easy",
+    "soal": "6 - 5 = ?",
+    "jawaban": "1",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0158",
+    "level": "easy",
+    "soal": "2 - 1 = ?",
+    "jawaban": "1",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0159",
+    "level": "easy",
+    "soal": "7 × 6 = ?",
+    "jawaban": "42",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0160",
+    "level": "easy",
+    "soal": "6 × 7 = ?",
+    "jawaban": "42",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0161",
+    "level": "easy",
+    "soal": "9 × 2 = ?",
+    "jawaban": "18",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0162",
+    "level": "easy",
+    "soal": "19 - 7 = ?",
+    "jawaban": "12",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0163",
+    "level": "easy",
+    "soal": "2 - 2 = ?",
+    "jawaban": "0",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0164",
+    "level": "easy",
+    "soal": "17 + 18 = ?",
+    "jawaban": "35",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0165",
+    "level": "easy",
+    "soal": "4 × 6 = ?",
+    "jawaban": "24",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0166",
+    "level": "easy",
+    "soal": "3 - 3 = ?",
+    "jawaban": "0",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0167",
+    "level": "easy",
+    "soal": "20 - 11 = ?",
+    "jawaban": "9",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0168",
+    "level": "easy",
+    "soal": "2 × 5 = ?",
+    "jawaban": "10",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0169",
+    "level": "easy",
+    "soal": "5 × 7 = ?",
+    "jawaban": "35",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0170",
+    "level": "easy",
+    "soal": "13 - 12 = ?",
+    "jawaban": "1",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0171",
+    "level": "easy",
+    "soal": "18 - 5 = ?",
+    "jawaban": "13",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0172",
+    "level": "easy",
+    "soal": "14 + 13 = ?",
+    "jawaban": "27",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0173",
+    "level": "easy",
+    "soal": "3 × 10 = ?",
+    "jawaban": "30",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0174",
+    "level": "easy",
+    "soal": "5 × 7 = ?",
+    "jawaban": "35",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0175",
+    "level": "easy",
+    "soal": "1 × 5 = ?",
+    "jawaban": "5",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0176",
+    "level": "easy",
+    "soal": "7 - 4 = ?",
+    "jawaban": "3",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0177",
+    "level": "easy",
+    "soal": "10 × 6 = ?",
+    "jawaban": "60",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0178",
+    "level": "easy",
+    "soal": "15 - 8 = ?",
+    "jawaban": "7",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0179",
+    "level": "easy",
+    "soal": "4 × 9 = ?",
+    "jawaban": "36",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0180",
+    "level": "easy",
+    "soal": "6 - 6 = ?",
+    "jawaban": "0",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0181",
+    "level": "easy",
+    "soal": "10 + 17 = ?",
+    "jawaban": "27",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0182",
+    "level": "easy",
+    "soal": "10 × 6 = ?",
+    "jawaban": "60",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0183",
+    "level": "easy",
+    "soal": "8 + 10 = ?",
+    "jawaban": "18",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0184",
+    "level": "easy",
+    "soal": "7 + 5 = ?",
+    "jawaban": "12",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0185",
+    "level": "easy",
+    "soal": "2 + 8 = ?",
+    "jawaban": "10",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0186",
+    "level": "easy",
+    "soal": "20 - 3 = ?",
+    "jawaban": "17",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0187",
+    "level": "easy",
+    "soal": "14 - 11 = ?",
+    "jawaban": "3",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0188",
+    "level": "easy",
+    "soal": "4 × 7 = ?",
+    "jawaban": "28",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0189",
+    "level": "easy",
+    "soal": "13 - 4 = ?",
+    "jawaban": "9",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0190",
+    "level": "easy",
+    "soal": "1 + 4 = ?",
+    "jawaban": "5",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0191",
+    "level": "easy",
+    "soal": "8 - 3 = ?",
+    "jawaban": "5",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0192",
+    "level": "easy",
+    "soal": "9 × 8 = ?",
+    "jawaban": "72",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0193",
+    "level": "easy",
+    "soal": "18 + 8 = ?",
+    "jawaban": "26",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0194",
+    "level": "easy",
+    "soal": "15 + 5 = ?",
+    "jawaban": "20",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0195",
+    "level": "easy",
+    "soal": "17 - 11 = ?",
+    "jawaban": "6",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0196",
+    "level": "easy",
+    "soal": "20 - 17 = ?",
+    "jawaban": "3",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0197",
+    "level": "easy",
+    "soal": "18 - 15 = ?",
+    "jawaban": "3",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0198",
+    "level": "easy",
+    "soal": "16 + 15 = ?",
+    "jawaban": "31",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0199",
+    "level": "easy",
+    "soal": "8 - 5 = ?",
+    "jawaban": "3",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0200",
+    "level": "easy",
+    "soal": "8 × 4 = ?",
+    "jawaban": "32",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0201",
+    "level": "easy",
+    "soal": "15 - 2 = ?",
+    "jawaban": "13",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0202",
+    "level": "easy",
+    "soal": "5 × 4 = ?",
+    "jawaban": "20",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0203",
+    "level": "easy",
+    "soal": "11 - 6 = ?",
+    "jawaban": "5",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0204",
+    "level": "easy",
+    "soal": "2 × 3 = ?",
+    "jawaban": "6",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0205",
+    "level": "easy",
+    "soal": "8 + 13 = ?",
+    "jawaban": "21",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0206",
+    "level": "easy",
+    "soal": "3 × 4 = ?",
+    "jawaban": "12",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0207",
+    "level": "easy",
+    "soal": "14 + 14 = ?",
+    "jawaban": "28",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0208",
+    "level": "easy",
+    "soal": "18 - 15 = ?",
+    "jawaban": "3",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0209",
+    "level": "easy",
+    "soal": "2 - 1 = ?",
+    "jawaban": "1",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0210",
+    "level": "easy",
+    "soal": "13 - 13 = ?",
+    "jawaban": "0",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0211",
+    "level": "easy",
+    "soal": "1 × 10 = ?",
+    "jawaban": "10",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0212",
+    "level": "easy",
+    "soal": "16 - 1 = ?",
+    "jawaban": "15",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0213",
+    "level": "easy",
+    "soal": "10 - 7 = ?",
+    "jawaban": "3",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0214",
+    "level": "easy",
+    "soal": "18 - 18 = ?",
+    "jawaban": "0",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0215",
+    "level": "easy",
+    "soal": "4 × 8 = ?",
+    "jawaban": "32",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0216",
+    "level": "easy",
+    "soal": "9 + 14 = ?",
+    "jawaban": "23",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0217",
+    "level": "easy",
+    "soal": "1 - 1 = ?",
+    "jawaban": "0",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0218",
+    "level": "easy",
+    "soal": "13 - 12 = ?",
+    "jawaban": "1",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0219",
+    "level": "easy",
+    "soal": "15 + 5 = ?",
+    "jawaban": "20",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0220",
+    "level": "easy",
+    "soal": "9 × 1 = ?",
+    "jawaban": "9",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0221",
+    "level": "easy",
+    "soal": "19 - 19 = ?",
+    "jawaban": "0",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0222",
+    "level": "easy",
+    "soal": "1 × 2 = ?",
+    "jawaban": "2",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0223",
+    "level": "easy",
+    "soal": "7 × 3 = ?",
+    "jawaban": "21",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0224",
+    "level": "easy",
+    "soal": "6 - 1 = ?",
+    "jawaban": "5",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0225",
+    "level": "easy",
+    "soal": "13 - 6 = ?",
+    "jawaban": "7",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0226",
+    "level": "easy",
+    "soal": "15 + 11 = ?",
+    "jawaban": "26",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0227",
+    "level": "easy",
+    "soal": "13 - 5 = ?",
+    "jawaban": "8",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0228",
+    "level": "easy",
+    "soal": "9 - 2 = ?",
+    "jawaban": "7",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0229",
+    "level": "easy",
+    "soal": "1 - 1 = ?",
+    "jawaban": "0",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0230",
+    "level": "easy",
+    "soal": "8 - 2 = ?",
+    "jawaban": "6",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0231",
+    "level": "easy",
+    "soal": "1 × 1 = ?",
+    "jawaban": "1",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0232",
+    "level": "easy",
+    "soal": "7 + 1 = ?",
+    "jawaban": "8",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0233",
+    "level": "easy",
+    "soal": "3 × 4 = ?",
+    "jawaban": "12",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0234",
+    "level": "easy",
+    "soal": "16 + 4 = ?",
+    "jawaban": "20",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0235",
+    "level": "easy",
+    "soal": "4 × 8 = ?",
+    "jawaban": "32",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0236",
+    "level": "easy",
+    "soal": "5 × 6 = ?",
+    "jawaban": "30",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0237",
+    "level": "easy",
+    "soal": "20 + 20 = ?",
+    "jawaban": "40",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0238",
+    "level": "easy",
+    "soal": "2 × 3 = ?",
+    "jawaban": "6",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0239",
+    "level": "easy",
+    "soal": "4 - 1 = ?",
+    "jawaban": "3",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0240",
+    "level": "easy",
+    "soal": "19 - 13 = ?",
+    "jawaban": "6",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0241",
+    "level": "easy",
+    "soal": "7 - 1 = ?",
+    "jawaban": "6",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0242",
+    "level": "easy",
+    "soal": "4 × 2 = ?",
+    "jawaban": "8",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0243",
+    "level": "easy",
+    "soal": "5 × 10 = ?",
+    "jawaban": "50",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0244",
+    "level": "easy",
+    "soal": "19 + 2 = ?",
+    "jawaban": "21",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0245",
+    "level": "easy",
+    "soal": "18 - 14 = ?",
+    "jawaban": "4",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0246",
+    "level": "easy",
+    "soal": "6 × 2 = ?",
+    "jawaban": "12",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0247",
+    "level": "easy",
+    "soal": "6 × 1 = ?",
+    "jawaban": "6",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0248",
+    "level": "easy",
+    "soal": "16 - 4 = ?",
+    "jawaban": "12",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0249",
+    "level": "easy",
+    "soal": "12 - 11 = ?",
+    "jawaban": "1",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0250",
+    "level": "easy",
+    "soal": "5 - 4 = ?",
+    "jawaban": "1",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0251",
+    "level": "easy",
+    "soal": "17 + 9 = ?",
+    "jawaban": "26",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0252",
+    "level": "easy",
+    "soal": "9 × 8 = ?",
+    "jawaban": "72",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0253",
+    "level": "easy",
+    "soal": "14 - 14 = ?",
+    "jawaban": "0",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0254",
+    "level": "easy",
+    "soal": "10 × 5 = ?",
+    "jawaban": "50",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0255",
+    "level": "easy",
+    "soal": "8 - 2 = ?",
+    "jawaban": "6",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0256",
+    "level": "easy",
+    "soal": "15 - 4 = ?",
+    "jawaban": "11",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0257",
+    "level": "easy",
+    "soal": "19 - 13 = ?",
+    "jawaban": "6",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0258",
+    "level": "easy",
+    "soal": "1 - 1 = ?",
+    "jawaban": "0",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0259",
+    "level": "easy",
+    "soal": "6 - 4 = ?",
+    "jawaban": "2",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0260",
+    "level": "easy",
+    "soal": "12 + 9 = ?",
+    "jawaban": "21",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0261",
+    "level": "easy",
+    "soal": "9 - 5 = ?",
+    "jawaban": "4",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0262",
+    "level": "easy",
+    "soal": "1 × 9 = ?",
+    "jawaban": "9",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0263",
+    "level": "easy",
+    "soal": "3 + 8 = ?",
+    "jawaban": "11",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0264",
+    "level": "easy",
+    "soal": "7 × 8 = ?",
+    "jawaban": "56",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0265",
+    "level": "easy",
+    "soal": "4 × 8 = ?",
+    "jawaban": "32",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0266",
+    "level": "easy",
+    "soal": "8 × 8 = ?",
+    "jawaban": "64",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0267",
+    "level": "easy",
+    "soal": "3 + 10 = ?",
+    "jawaban": "13",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0268",
+    "level": "easy",
+    "soal": "13 + 8 = ?",
+    "jawaban": "21",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0269",
+    "level": "easy",
+    "soal": "19 - 12 = ?",
+    "jawaban": "7",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0270",
+    "level": "easy",
+    "soal": "18 - 17 = ?",
+    "jawaban": "1",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0271",
+    "level": "easy",
+    "soal": "14 - 12 = ?",
+    "jawaban": "2",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0272",
+    "level": "easy",
+    "soal": "6 × 6 = ?",
+    "jawaban": "36",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0273",
+    "level": "easy",
+    "soal": "8 × 5 = ?",
+    "jawaban": "40",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0274",
+    "level": "easy",
+    "soal": "9 - 4 = ?",
+    "jawaban": "5",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0275",
+    "level": "easy",
+    "soal": "7 + 11 = ?",
+    "jawaban": "18",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0276",
+    "level": "easy",
+    "soal": "18 + 6 = ?",
+    "jawaban": "24",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0277",
+    "level": "easy",
+    "soal": "7 + 16 = ?",
+    "jawaban": "23",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0278",
+    "level": "easy",
+    "soal": "19 - 17 = ?",
+    "jawaban": "2",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0279",
+    "level": "easy",
+    "soal": "5 × 2 = ?",
+    "jawaban": "10",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0280",
+    "level": "easy",
+    "soal": "10 + 8 = ?",
+    "jawaban": "18",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0281",
+    "level": "easy",
+    "soal": "6 - 3 = ?",
+    "jawaban": "3",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0282",
+    "level": "easy",
+    "soal": "18 + 5 = ?",
+    "jawaban": "23",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0283",
+    "level": "easy",
+    "soal": "2 - 1 = ?",
+    "jawaban": "1",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0284",
+    "level": "easy",
+    "soal": "5 × 3 = ?",
+    "jawaban": "15",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0285",
+    "level": "easy",
+    "soal": "8 × 2 = ?",
+    "jawaban": "16",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0286",
+    "level": "easy",
+    "soal": "19 + 10 = ?",
+    "jawaban": "29",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0287",
+    "level": "easy",
+    "soal": "16 - 15 = ?",
+    "jawaban": "1",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0288",
+    "level": "easy",
+    "soal": "6 - 1 = ?",
+    "jawaban": "5",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0289",
+    "level": "easy",
+    "soal": "16 - 4 = ?",
+    "jawaban": "12",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0290",
+    "level": "easy",
+    "soal": "13 + 16 = ?",
+    "jawaban": "29",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0291",
+    "level": "easy",
+    "soal": "19 + 2 = ?",
+    "jawaban": "21",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0292",
+    "level": "easy",
+    "soal": "5 + 19 = ?",
+    "jawaban": "24",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0293",
+    "level": "easy",
+    "soal": "3 - 1 = ?",
+    "jawaban": "2",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0294",
+    "level": "easy",
+    "soal": "18 + 14 = ?",
+    "jawaban": "32",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0295",
+    "level": "easy",
+    "soal": "10 × 10 = ?",
+    "jawaban": "100",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0296",
+    "level": "easy",
+    "soal": "17 + 13 = ?",
+    "jawaban": "30",
+    "deskripsi": "Penjumlahan dasar"
+  },
+  {
+    "id": "Q0297",
+    "level": "easy",
+    "soal": "15 - 5 = ?",
+    "jawaban": "10",
+    "deskripsi": "Pengurangan dasar"
+  },
+  {
+    "id": "Q0298",
+    "level": "easy",
+    "soal": "7 × 5 = ?",
+    "jawaban": "35",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0299",
+    "level": "easy",
+    "soal": "10 × 1 = ?",
+    "jawaban": "10",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0300",
+    "level": "easy",
+    "soal": "2 × 4 = ?",
+    "jawaban": "8",
+    "deskripsi": "Perkalian dasar"
+  },
+  {
+    "id": "Q0301",
+    "level": "medium",
+    "soal": "43 + 12 × 3 = ?",
+    "jawaban": "79",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0302",
+    "level": "medium",
+    "soal": "40 + 4 × 18 = ?",
+    "jawaban": "112",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0303",
+    "level": "medium",
+    "soal": "4 × 2 + 27 = ?",
+    "jawaban": "35",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0304",
+    "level": "medium",
+    "soal": "(49 + 10) × 16 = ?",
+    "jawaban": "944",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0305",
+    "level": "medium",
+    "soal": "10 ÷ 2 = ?",
+    "jawaban": "5",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0306",
+    "level": "medium",
+    "soal": "54 ÷ 6 = ?",
+    "jawaban": "9",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0307",
+    "level": "medium",
+    "soal": "12 × 5 + 17 = ?",
+    "jawaban": "77",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0308",
+    "level": "medium",
+    "soal": "10% dari 179 = ?",
+    "jawaban": "17",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0309",
+    "level": "medium",
+    "soal": "(12 + 9) × 8 = ?",
+    "jawaban": "168",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0310",
+    "level": "medium",
+    "soal": "44 + 4 × 3 = ?",
+    "jawaban": "56",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0311",
+    "level": "medium",
+    "soal": "4 × 6 + 39 = ?",
+    "jawaban": "63",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0312",
+    "level": "medium",
+    "soal": "25% dari 83 = ?",
+    "jawaban": "20",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0313",
+    "level": "medium",
+    "soal": "9 × 6 + 45 = ?",
+    "jawaban": "99",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0314",
+    "level": "medium",
+    "soal": "(22 + 9) × 18 = ?",
+    "jawaban": "558",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0315",
+    "level": "medium",
+    "soal": "(33 + 2) × 20 = ?",
+    "jawaban": "700",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0316",
+    "level": "medium",
+    "soal": "8 × 7 + 39 = ?",
+    "jawaban": "95",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0317",
+    "level": "medium",
+    "soal": "6 ÷ 2 = ?",
+    "jawaban": "3",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0318",
+    "level": "medium",
+    "soal": "96 + 11 × 19 = ?",
+    "jawaban": "305",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0319",
+    "level": "medium",
+    "soal": "12 × 6 + 37 = ?",
+    "jawaban": "109",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0320",
+    "level": "medium",
+    "soal": "4 × 9 + 34 = ?",
+    "jawaban": "70",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0321",
+    "level": "medium",
+    "soal": "(22 + 3) × 19 = ?",
+    "jawaban": "475",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0322",
+    "level": "medium",
+    "soal": "(45 + 8) × 3 = ?",
+    "jawaban": "159",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0323",
+    "level": "medium",
+    "soal": "(27 + 7) × 11 = ?",
+    "jawaban": "374",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0324",
+    "level": "medium",
+    "soal": "36 ÷ 12 = ?",
+    "jawaban": "3",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0325",
+    "level": "medium",
+    "soal": "52 + 8 × 16 = ?",
+    "jawaban": "180",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0326",
+    "level": "medium",
+    "soal": "96 ÷ 12 = ?",
+    "jawaban": "8",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0327",
+    "level": "medium",
+    "soal": "25% dari 19 = ?",
+    "jawaban": "4",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0328",
+    "level": "medium",
+    "soal": "7 × 6 + 21 = ?",
+    "jawaban": "63",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0329",
+    "level": "medium",
+    "soal": "8 × 10 + 1 = ?",
+    "jawaban": "81",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0330",
+    "level": "medium",
+    "soal": "25% dari 128 = ?",
+    "jawaban": "32",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0331",
+    "level": "medium",
+    "soal": "5 × 10 + 24 = ?",
+    "jawaban": "74",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0332",
+    "level": "medium",
+    "soal": "25% dari 137 = ?",
+    "jawaban": "34",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0333",
+    "level": "medium",
+    "soal": "5 × 6 + 36 = ?",
+    "jawaban": "66",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0334",
+    "level": "medium",
+    "soal": "46 + 9 × 16 = ?",
+    "jawaban": "190",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0335",
+    "level": "medium",
+    "soal": "2 × 12 + 39 = ?",
+    "jawaban": "63",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0336",
+    "level": "medium",
+    "soal": "100 + 4 × 10 = ?",
+    "jawaban": "140",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0337",
+    "level": "medium",
+    "soal": "25% dari 13 = ?",
+    "jawaban": "3",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0338",
+    "level": "medium",
+    "soal": "5 × 3 + 30 = ?",
+    "jawaban": "45",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0339",
+    "level": "medium",
+    "soal": "12 × 4 + 32 = ?",
+    "jawaban": "80",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0340",
+    "level": "medium",
+    "soal": "60 ÷ 10 = ?",
+    "jawaban": "6",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0341",
+    "level": "medium",
+    "soal": "(35 + 8) × 8 = ?",
+    "jawaban": "344",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0342",
+    "level": "medium",
+    "soal": "(40 + 3) × 13 = ?",
+    "jawaban": "559",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0343",
+    "level": "medium",
+    "soal": "86 + 10 × 5 = ?",
+    "jawaban": "136",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0344",
+    "level": "medium",
+    "soal": "6 × 8 + 22 = ?",
+    "jawaban": "70",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0345",
+    "level": "medium",
+    "soal": "5% dari 78 = ?",
+    "jawaban": "3",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0346",
+    "level": "medium",
+    "soal": "66 ÷ 6 = ?",
+    "jawaban": "11",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0347",
+    "level": "medium",
+    "soal": "25% dari 178 = ?",
+    "jawaban": "44",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0348",
+    "level": "medium",
+    "soal": "67 + 10 × 16 = ?",
+    "jawaban": "227",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0349",
+    "level": "medium",
+    "soal": "70 ÷ 7 = ?",
+    "jawaban": "10",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0350",
+    "level": "medium",
+    "soal": "25% dari 106 = ?",
+    "jawaban": "26",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0351",
+    "level": "medium",
+    "soal": "25 ÷ 5 = ?",
+    "jawaban": "5",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0352",
+    "level": "medium",
+    "soal": "10% dari 108 = ?",
+    "jawaban": "10",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0353",
+    "level": "medium",
+    "soal": "(7 + 6) × 16 = ?",
+    "jawaban": "208",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0354",
+    "level": "medium",
+    "soal": "(29 + 3) × 16 = ?",
+    "jawaban": "512",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0355",
+    "level": "medium",
+    "soal": "4 × 10 + 38 = ?",
+    "jawaban": "78",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0356",
+    "level": "medium",
+    "soal": "27 ÷ 3 = ?",
+    "jawaban": "9",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0357",
+    "level": "medium",
+    "soal": "10 × 9 + 1 = ?",
+    "jawaban": "91",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0358",
+    "level": "medium",
+    "soal": "62 + 12 × 5 = ?",
+    "jawaban": "122",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0359",
+    "level": "medium",
+    "soal": "9 × 6 + 22 = ?",
+    "jawaban": "76",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0360",
+    "level": "medium",
+    "soal": "25% dari 187 = ?",
+    "jawaban": "46",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0361",
+    "level": "medium",
+    "soal": "7 × 12 + 35 = ?",
+    "jawaban": "119",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0362",
+    "level": "medium",
+    "soal": "(25 + 8) × 18 = ?",
+    "jawaban": "594",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0363",
+    "level": "medium",
+    "soal": "11 × 3 + 16 = ?",
+    "jawaban": "49",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0364",
+    "level": "medium",
+    "soal": "15 ÷ 5 = ?",
+    "jawaban": "3",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0365",
+    "level": "medium",
+    "soal": "(11 + 2) × 15 = ?",
+    "jawaban": "195",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0366",
+    "level": "medium",
+    "soal": "98 + 6 × 1 = ?",
+    "jawaban": "104",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0367",
+    "level": "medium",
+    "soal": "7 × 2 + 19 = ?",
+    "jawaban": "33",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0368",
+    "level": "medium",
+    "soal": "56 ÷ 7 = ?",
+    "jawaban": "8",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0369",
+    "level": "medium",
+    "soal": "41 + 10 × 14 = ?",
+    "jawaban": "181",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0370",
+    "level": "medium",
+    "soal": "10% dari 184 = ?",
+    "jawaban": "18",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0371",
+    "level": "medium",
+    "soal": "32 + 3 × 20 = ?",
+    "jawaban": "92",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0372",
+    "level": "medium",
+    "soal": "(44 + 4) × 16 = ?",
+    "jawaban": "768",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0373",
+    "level": "medium",
+    "soal": "10% dari 46 = ?",
+    "jawaban": "4",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0374",
+    "level": "medium",
+    "soal": "(45 + 5) × 15 = ?",
+    "jawaban": "750",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0375",
+    "level": "medium",
+    "soal": "24 ÷ 12 = ?",
+    "jawaban": "2",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0376",
+    "level": "medium",
+    "soal": "(23 + 9) × 6 = ?",
+    "jawaban": "192",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0377",
+    "level": "medium",
+    "soal": "9 × 7 + 38 = ?",
+    "jawaban": "101",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0378",
+    "level": "medium",
+    "soal": "96 ÷ 12 = ?",
+    "jawaban": "8",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0379",
+    "level": "medium",
+    "soal": "54 ÷ 9 = ?",
+    "jawaban": "6",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0380",
+    "level": "medium",
+    "soal": "59 + 9 × 4 = ?",
+    "jawaban": "95",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0381",
+    "level": "medium",
+    "soal": "58 + 11 × 12 = ?",
+    "jawaban": "190",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0382",
+    "level": "medium",
+    "soal": "20% dari 85 = ?",
+    "jawaban": "17",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0383",
+    "level": "medium",
+    "soal": "12 × 8 + 18 = ?",
+    "jawaban": "114",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0384",
+    "level": "medium",
+    "soal": "11 × 12 + 50 = ?",
+    "jawaban": "182",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0385",
+    "level": "medium",
+    "soal": "11 × 9 + 19 = ?",
+    "jawaban": "118",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0386",
+    "level": "medium",
+    "soal": "87 + 7 × 8 = ?",
+    "jawaban": "143",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0387",
+    "level": "medium",
+    "soal": "89 + 6 × 5 = ?",
+    "jawaban": "119",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0388",
+    "level": "medium",
+    "soal": "12 × 12 + 3 = ?",
+    "jawaban": "147",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0389",
+    "level": "medium",
+    "soal": "18 ÷ 9 = ?",
+    "jawaban": "2",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0390",
+    "level": "medium",
+    "soal": "10% dari 103 = ?",
+    "jawaban": "10",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0391",
+    "level": "medium",
+    "soal": "6 × 7 + 48 = ?",
+    "jawaban": "90",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0392",
+    "level": "medium",
+    "soal": "(16 + 4) × 5 = ?",
+    "jawaban": "100",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0393",
+    "level": "medium",
+    "soal": "20% dari 103 = ?",
+    "jawaban": "20",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0394",
+    "level": "medium",
+    "soal": "42 + 9 × 10 = ?",
+    "jawaban": "132",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0395",
+    "level": "medium",
+    "soal": "27 ÷ 3 = ?",
+    "jawaban": "9",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0396",
+    "level": "medium",
+    "soal": "4 × 5 + 44 = ?",
+    "jawaban": "64",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0397",
+    "level": "medium",
+    "soal": "(40 + 6) × 3 = ?",
+    "jawaban": "138",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0398",
+    "level": "medium",
+    "soal": "(5 + 5) × 18 = ?",
+    "jawaban": "180",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0399",
+    "level": "medium",
+    "soal": "9 × 7 + 44 = ?",
+    "jawaban": "107",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0400",
+    "level": "medium",
+    "soal": "88 ÷ 11 = ?",
+    "jawaban": "8",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0401",
+    "level": "medium",
+    "soal": "36 ÷ 3 = ?",
+    "jawaban": "12",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0402",
+    "level": "medium",
+    "soal": "70 + 2 × 20 = ?",
+    "jawaban": "110",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0403",
+    "level": "medium",
+    "soal": "10% dari 93 = ?",
+    "jawaban": "9",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0404",
+    "level": "medium",
+    "soal": "12 × 9 + 45 = ?",
+    "jawaban": "153",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0405",
+    "level": "medium",
+    "soal": "96 ÷ 12 = ?",
+    "jawaban": "8",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0406",
+    "level": "medium",
+    "soal": "4 × 2 + 3 = ?",
+    "jawaban": "11",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0407",
+    "level": "medium",
+    "soal": "27 ÷ 9 = ?",
+    "jawaban": "3",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0408",
+    "level": "medium",
+    "soal": "5 × 10 + 9 = ?",
+    "jawaban": "59",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0409",
+    "level": "medium",
+    "soal": "(34 + 6) × 18 = ?",
+    "jawaban": "720",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0410",
+    "level": "medium",
+    "soal": "(42 + 3) × 14 = ?",
+    "jawaban": "630",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0411",
+    "level": "medium",
+    "soal": "9 × 11 + 27 = ?",
+    "jawaban": "126",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0412",
+    "level": "medium",
+    "soal": "14 ÷ 2 = ?",
+    "jawaban": "7",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0413",
+    "level": "medium",
+    "soal": "66 + 9 × 8 = ?",
+    "jawaban": "138",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0414",
+    "level": "medium",
+    "soal": "36 ÷ 3 = ?",
+    "jawaban": "12",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0415",
+    "level": "medium",
+    "soal": "120 ÷ 10 = ?",
+    "jawaban": "12",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0416",
+    "level": "medium",
+    "soal": "16 ÷ 2 = ?",
+    "jawaban": "8",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0417",
+    "level": "medium",
+    "soal": "15 ÷ 5 = ?",
+    "jawaban": "3",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0418",
+    "level": "medium",
+    "soal": "(10 + 4) × 20 = ?",
+    "jawaban": "280",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0419",
+    "level": "medium",
+    "soal": "2 × 7 + 16 = ?",
+    "jawaban": "30",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0420",
+    "level": "medium",
+    "soal": "82 + 5 × 3 = ?",
+    "jawaban": "97",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0421",
+    "level": "medium",
+    "soal": "10% dari 63 = ?",
+    "jawaban": "6",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0422",
+    "level": "medium",
+    "soal": "52 + 4 × 20 = ?",
+    "jawaban": "132",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0423",
+    "level": "medium",
+    "soal": "6 × 4 + 9 = ?",
+    "jawaban": "33",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0424",
+    "level": "medium",
+    "soal": "10% dari 74 = ?",
+    "jawaban": "7",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0425",
+    "level": "medium",
+    "soal": "12 × 2 + 9 = ?",
+    "jawaban": "33",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0426",
+    "level": "medium",
+    "soal": "7 × 5 + 38 = ?",
+    "jawaban": "73",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0427",
+    "level": "medium",
+    "soal": "8 ÷ 2 = ?",
+    "jawaban": "4",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0428",
+    "level": "medium",
+    "soal": "8 ÷ 2 = ?",
+    "jawaban": "4",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0429",
+    "level": "medium",
+    "soal": "(38 + 2) × 3 = ?",
+    "jawaban": "120",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0430",
+    "level": "medium",
+    "soal": "(33 + 6) × 17 = ?",
+    "jawaban": "663",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0431",
+    "level": "medium",
+    "soal": "25% dari 37 = ?",
+    "jawaban": "9",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0432",
+    "level": "medium",
+    "soal": "5% dari 66 = ?",
+    "jawaban": "3",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0433",
+    "level": "medium",
+    "soal": "25% dari 87 = ?",
+    "jawaban": "21",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0434",
+    "level": "medium",
+    "soal": "2 × 9 + 26 = ?",
+    "jawaban": "44",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0435",
+    "level": "medium",
+    "soal": "(48 + 2) × 16 = ?",
+    "jawaban": "800",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0436",
+    "level": "medium",
+    "soal": "(9 + 2) × 11 = ?",
+    "jawaban": "121",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0437",
+    "level": "medium",
+    "soal": "5% dari 47 = ?",
+    "jawaban": "2",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0438",
+    "level": "medium",
+    "soal": "45 + 11 × 19 = ?",
+    "jawaban": "254",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0439",
+    "level": "medium",
+    "soal": "20% dari 192 = ?",
+    "jawaban": "38",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0440",
+    "level": "medium",
+    "soal": "(43 + 9) × 10 = ?",
+    "jawaban": "520",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0441",
+    "level": "medium",
+    "soal": "(37 + 10) × 14 = ?",
+    "jawaban": "658",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0442",
+    "level": "medium",
+    "soal": "3 × 12 + 42 = ?",
+    "jawaban": "78",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0443",
+    "level": "medium",
+    "soal": "10% dari 194 = ?",
+    "jawaban": "19",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0444",
+    "level": "medium",
+    "soal": "(33 + 4) × 14 = ?",
+    "jawaban": "518",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0445",
+    "level": "medium",
+    "soal": "72 ÷ 9 = ?",
+    "jawaban": "8",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0446",
+    "level": "medium",
+    "soal": "(11 + 6) × 14 = ?",
+    "jawaban": "238",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0447",
+    "level": "medium",
+    "soal": "72 ÷ 12 = ?",
+    "jawaban": "6",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0448",
+    "level": "medium",
+    "soal": "48 ÷ 4 = ?",
+    "jawaban": "12",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0449",
+    "level": "medium",
+    "soal": "(9 + 2) × 3 = ?",
+    "jawaban": "33",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0450",
+    "level": "medium",
+    "soal": "8 × 3 + 48 = ?",
+    "jawaban": "72",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0451",
+    "level": "medium",
+    "soal": "40 ÷ 4 = ?",
+    "jawaban": "10",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0452",
+    "level": "medium",
+    "soal": "11 × 10 + 36 = ?",
+    "jawaban": "146",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0453",
+    "level": "medium",
+    "soal": "36 ÷ 12 = ?",
+    "jawaban": "3",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0454",
+    "level": "medium",
+    "soal": "(27 + 7) × 2 = ?",
+    "jawaban": "68",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0455",
+    "level": "medium",
+    "soal": "66 ÷ 11 = ?",
+    "jawaban": "6",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0456",
+    "level": "medium",
+    "soal": "33 ÷ 3 = ?",
+    "jawaban": "11",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0457",
+    "level": "medium",
+    "soal": "10% dari 64 = ?",
+    "jawaban": "6",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0458",
+    "level": "medium",
+    "soal": "(19 + 2) × 12 = ?",
+    "jawaban": "252",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0459",
+    "level": "medium",
+    "soal": "5% dari 104 = ?",
+    "jawaban": "5",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0460",
+    "level": "medium",
+    "soal": "55 ÷ 11 = ?",
+    "jawaban": "5",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0461",
+    "level": "medium",
+    "soal": "(40 + 10) × 20 = ?",
+    "jawaban": "1000",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0462",
+    "level": "medium",
+    "soal": "20% dari 16 = ?",
+    "jawaban": "3",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0463",
+    "level": "medium",
+    "soal": "4 × 6 + 45 = ?",
+    "jawaban": "69",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0464",
+    "level": "medium",
+    "soal": "49 ÷ 7 = ?",
+    "jawaban": "7",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0465",
+    "level": "medium",
+    "soal": "4 × 4 + 37 = ?",
+    "jawaban": "53",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0466",
+    "level": "medium",
+    "soal": "(9 + 3) × 1 = ?",
+    "jawaban": "12",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0467",
+    "level": "medium",
+    "soal": "10 × 5 + 25 = ?",
+    "jawaban": "75",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0468",
+    "level": "medium",
+    "soal": "(34 + 6) × 6 = ?",
+    "jawaban": "240",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0469",
+    "level": "medium",
+    "soal": "42 ÷ 6 = ?",
+    "jawaban": "7",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0470",
+    "level": "medium",
+    "soal": "5% dari 162 = ?",
+    "jawaban": "8",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0471",
+    "level": "medium",
+    "soal": "4 × 4 + 49 = ?",
+    "jawaban": "65",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0472",
+    "level": "medium",
+    "soal": "5% dari 22 = ?",
+    "jawaban": "1",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0473",
+    "level": "medium",
+    "soal": "108 ÷ 9 = ?",
+    "jawaban": "12",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0474",
+    "level": "medium",
+    "soal": "(36 + 10) × 15 = ?",
+    "jawaban": "690",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0475",
+    "level": "medium",
+    "soal": "(22 + 4) × 17 = ?",
+    "jawaban": "442",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0476",
+    "level": "medium",
+    "soal": "7 × 8 + 8 = ?",
+    "jawaban": "64",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0477",
+    "level": "medium",
+    "soal": "144 ÷ 12 = ?",
+    "jawaban": "12",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0478",
+    "level": "medium",
+    "soal": "20% dari 134 = ?",
+    "jawaban": "26",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0479",
+    "level": "medium",
+    "soal": "5 × 8 + 39 = ?",
+    "jawaban": "79",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0480",
+    "level": "medium",
+    "soal": "2 × 5 + 20 = ?",
+    "jawaban": "30",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0481",
+    "level": "medium",
+    "soal": "27 + 6 × 10 = ?",
+    "jawaban": "87",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0482",
+    "level": "medium",
+    "soal": "6 ÷ 3 = ?",
+    "jawaban": "2",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0483",
+    "level": "medium",
+    "soal": "(32 + 3) × 5 = ?",
+    "jawaban": "175",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0484",
+    "level": "medium",
+    "soal": "(39 + 4) × 17 = ?",
+    "jawaban": "731",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0485",
+    "level": "medium",
+    "soal": "20% dari 181 = ?",
+    "jawaban": "36",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0486",
+    "level": "medium",
+    "soal": "8 × 2 + 28 = ?",
+    "jawaban": "44",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0487",
+    "level": "medium",
+    "soal": "9 × 3 + 21 = ?",
+    "jawaban": "48",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0488",
+    "level": "medium",
+    "soal": "25% dari 119 = ?",
+    "jawaban": "29",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0489",
+    "level": "medium",
+    "soal": "(23 + 2) × 13 = ?",
+    "jawaban": "325",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0490",
+    "level": "medium",
+    "soal": "7 × 4 + 40 = ?",
+    "jawaban": "68",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0491",
+    "level": "medium",
+    "soal": "(49 + 6) × 3 = ?",
+    "jawaban": "165",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0492",
+    "level": "medium",
+    "soal": "(11 + 4) × 14 = ?",
+    "jawaban": "210",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0493",
+    "level": "medium",
+    "soal": "5% dari 112 = ?",
+    "jawaban": "5",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0494",
+    "level": "medium",
+    "soal": "(24 + 6) × 8 = ?",
+    "jawaban": "240",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0495",
+    "level": "medium",
+    "soal": "12 ÷ 4 = ?",
+    "jawaban": "3",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0496",
+    "level": "medium",
+    "soal": "5% dari 172 = ?",
+    "jawaban": "8",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0497",
+    "level": "medium",
+    "soal": "10% dari 140 = ?",
+    "jawaban": "14",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0498",
+    "level": "medium",
+    "soal": "84 ÷ 7 = ?",
+    "jawaban": "12",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0499",
+    "level": "medium",
+    "soal": "40 + 3 × 5 = ?",
+    "jawaban": "55",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0500",
+    "level": "medium",
+    "soal": "20 ÷ 5 = ?",
+    "jawaban": "4",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0501",
+    "level": "medium",
+    "soal": "5% dari 49 = ?",
+    "jawaban": "2",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0502",
+    "level": "medium",
+    "soal": "90 + 9 × 15 = ?",
+    "jawaban": "225",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0503",
+    "level": "medium",
+    "soal": "25% dari 158 = ?",
+    "jawaban": "39",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0504",
+    "level": "medium",
+    "soal": "20% dari 174 = ?",
+    "jawaban": "34",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0505",
+    "level": "medium",
+    "soal": "36 ÷ 4 = ?",
+    "jawaban": "9",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0506",
+    "level": "medium",
+    "soal": "9 × 9 + 41 = ?",
+    "jawaban": "122",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0507",
+    "level": "medium",
+    "soal": "66 ÷ 6 = ?",
+    "jawaban": "11",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0508",
+    "level": "medium",
+    "soal": "7 × 10 + 5 = ?",
+    "jawaban": "75",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0509",
+    "level": "medium",
+    "soal": "81 ÷ 9 = ?",
+    "jawaban": "9",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0510",
+    "level": "medium",
+    "soal": "2 × 7 + 19 = ?",
+    "jawaban": "33",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0511",
+    "level": "medium",
+    "soal": "12 × 3 + 40 = ?",
+    "jawaban": "76",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0512",
+    "level": "medium",
+    "soal": "25% dari 139 = ?",
+    "jawaban": "34",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0513",
+    "level": "medium",
+    "soal": "(42 + 9) × 2 = ?",
+    "jawaban": "102",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0514",
+    "level": "medium",
+    "soal": "(41 + 4) × 11 = ?",
+    "jawaban": "495",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0515",
+    "level": "medium",
+    "soal": "10% dari 131 = ?",
+    "jawaban": "13",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0516",
+    "level": "medium",
+    "soal": "9 × 3 + 22 = ?",
+    "jawaban": "49",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0517",
+    "level": "medium",
+    "soal": "10 × 12 + 12 = ?",
+    "jawaban": "132",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0518",
+    "level": "medium",
+    "soal": "5 × 9 + 29 = ?",
+    "jawaban": "74",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0519",
+    "level": "medium",
+    "soal": "10% dari 143 = ?",
+    "jawaban": "14",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0520",
+    "level": "medium",
+    "soal": "42 ÷ 7 = ?",
+    "jawaban": "6",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0521",
+    "level": "medium",
+    "soal": "(31 + 6) × 20 = ?",
+    "jawaban": "740",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0522",
+    "level": "medium",
+    "soal": "12 × 12 + 22 = ?",
+    "jawaban": "166",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0523",
+    "level": "medium",
+    "soal": "7 × 3 + 36 = ?",
+    "jawaban": "57",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0524",
+    "level": "medium",
+    "soal": "(23 + 5) × 20 = ?",
+    "jawaban": "560",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0525",
+    "level": "medium",
+    "soal": "52 + 3 × 19 = ?",
+    "jawaban": "109",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0526",
+    "level": "medium",
+    "soal": "54 + 6 × 13 = ?",
+    "jawaban": "132",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0527",
+    "level": "medium",
+    "soal": "86 + 3 × 10 = ?",
+    "jawaban": "116",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0528",
+    "level": "medium",
+    "soal": "20% dari 106 = ?",
+    "jawaban": "21",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0529",
+    "level": "medium",
+    "soal": "95 + 12 × 17 = ?",
+    "jawaban": "299",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0530",
+    "level": "medium",
+    "soal": "12 × 12 + 28 = ?",
+    "jawaban": "172",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0531",
+    "level": "medium",
+    "soal": "5% dari 102 = ?",
+    "jawaban": "5",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0532",
+    "level": "medium",
+    "soal": "24 ÷ 6 = ?",
+    "jawaban": "4",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0533",
+    "level": "medium",
+    "soal": "53 + 9 × 7 = ?",
+    "jawaban": "116",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0534",
+    "level": "medium",
+    "soal": "27 + 4 × 3 = ?",
+    "jawaban": "39",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0535",
+    "level": "medium",
+    "soal": "30 ÷ 3 = ?",
+    "jawaban": "10",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0536",
+    "level": "medium",
+    "soal": "5% dari 199 = ?",
+    "jawaban": "9",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0537",
+    "level": "medium",
+    "soal": "44 ÷ 11 = ?",
+    "jawaban": "4",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0538",
+    "level": "medium",
+    "soal": "10% dari 106 = ?",
+    "jawaban": "10",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0539",
+    "level": "medium",
+    "soal": "33 + 11 × 6 = ?",
+    "jawaban": "99",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0540",
+    "level": "medium",
+    "soal": "(7 + 7) × 12 = ?",
+    "jawaban": "168",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0541",
+    "level": "medium",
+    "soal": "66 + 11 × 10 = ?",
+    "jawaban": "176",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0542",
+    "level": "medium",
+    "soal": "(19 + 9) × 8 = ?",
+    "jawaban": "224",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0543",
+    "level": "medium",
+    "soal": "45 ÷ 9 = ?",
+    "jawaban": "5",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0544",
+    "level": "medium",
+    "soal": "132 ÷ 12 = ?",
+    "jawaban": "11",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0545",
+    "level": "medium",
+    "soal": "(34 + 5) × 13 = ?",
+    "jawaban": "507",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0546",
+    "level": "medium",
+    "soal": "25% dari 145 = ?",
+    "jawaban": "36",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0547",
+    "level": "medium",
+    "soal": "35 + 11 × 5 = ?",
+    "jawaban": "90",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0548",
+    "level": "medium",
+    "soal": "24 ÷ 2 = ?",
+    "jawaban": "12",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0549",
+    "level": "medium",
+    "soal": "(28 + 9) × 4 = ?",
+    "jawaban": "148",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0550",
+    "level": "medium",
+    "soal": "20% dari 41 = ?",
+    "jawaban": "8",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0551",
+    "level": "medium",
+    "soal": "4 × 6 + 29 = ?",
+    "jawaban": "53",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0552",
+    "level": "medium",
+    "soal": "25% dari 47 = ?",
+    "jawaban": "11",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0553",
+    "level": "medium",
+    "soal": "5 × 9 + 23 = ?",
+    "jawaban": "68",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0554",
+    "level": "medium",
+    "soal": "8 × 2 + 26 = ?",
+    "jawaban": "42",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0555",
+    "level": "medium",
+    "soal": "10% dari 105 = ?",
+    "jawaban": "10",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0556",
+    "level": "medium",
+    "soal": "(10 + 6) × 8 = ?",
+    "jawaban": "128",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0557",
+    "level": "medium",
+    "soal": "7 × 3 + 46 = ?",
+    "jawaban": "67",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0558",
+    "level": "medium",
+    "soal": "16 ÷ 4 = ?",
+    "jawaban": "4",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0559",
+    "level": "medium",
+    "soal": "6 × 9 + 45 = ?",
+    "jawaban": "99",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0560",
+    "level": "medium",
+    "soal": "100 + 9 × 15 = ?",
+    "jawaban": "235",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0561",
+    "level": "medium",
+    "soal": "5% dari 11 = ?",
+    "jawaban": "0",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0562",
+    "level": "medium",
+    "soal": "6 × 5 + 10 = ?",
+    "jawaban": "40",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0563",
+    "level": "medium",
+    "soal": "25% dari 196 = ?",
+    "jawaban": "49",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0564",
+    "level": "medium",
+    "soal": "6 × 5 + 20 = ?",
+    "jawaban": "50",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0565",
+    "level": "medium",
+    "soal": "2 × 5 + 27 = ?",
+    "jawaban": "37",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0566",
+    "level": "medium",
+    "soal": "5% dari 127 = ?",
+    "jawaban": "6",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0567",
+    "level": "medium",
+    "soal": "9 × 11 + 35 = ?",
+    "jawaban": "134",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0568",
+    "level": "medium",
+    "soal": "12 × 10 + 37 = ?",
+    "jawaban": "157",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0569",
+    "level": "medium",
+    "soal": "28 + 6 × 14 = ?",
+    "jawaban": "112",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0570",
+    "level": "medium",
+    "soal": "11 × 7 + 16 = ?",
+    "jawaban": "93",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0571",
+    "level": "medium",
+    "soal": "10% dari 116 = ?",
+    "jawaban": "11",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0572",
+    "level": "medium",
+    "soal": "10 × 7 + 5 = ?",
+    "jawaban": "75",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0573",
+    "level": "medium",
+    "soal": "5% dari 149 = ?",
+    "jawaban": "7",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0574",
+    "level": "medium",
+    "soal": "(35 + 1) × 13 = ?",
+    "jawaban": "468",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0575",
+    "level": "medium",
+    "soal": "12 ÷ 6 = ?",
+    "jawaban": "2",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0576",
+    "level": "medium",
+    "soal": "21 ÷ 3 = ?",
+    "jawaban": "7",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0577",
+    "level": "medium",
+    "soal": "94 + 12 × 4 = ?",
+    "jawaban": "142",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0578",
+    "level": "medium",
+    "soal": "20% dari 198 = ?",
+    "jawaban": "39",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0579",
+    "level": "medium",
+    "soal": "15 + 7 × 18 = ?",
+    "jawaban": "141",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0580",
+    "level": "medium",
+    "soal": "48 ÷ 12 = ?",
+    "jawaban": "4",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0581",
+    "level": "medium",
+    "soal": "(49 + 8) × 6 = ?",
+    "jawaban": "342",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0582",
+    "level": "medium",
+    "soal": "18 + 9 × 2 = ?",
+    "jawaban": "36",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0583",
+    "level": "medium",
+    "soal": "10 ÷ 5 = ?",
+    "jawaban": "2",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0584",
+    "level": "medium",
+    "soal": "15 + 7 × 10 = ?",
+    "jawaban": "85",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0585",
+    "level": "medium",
+    "soal": "25% dari 111 = ?",
+    "jawaban": "27",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0586",
+    "level": "medium",
+    "soal": "24 ÷ 2 = ?",
+    "jawaban": "12",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0587",
+    "level": "medium",
+    "soal": "46 + 7 × 2 = ?",
+    "jawaban": "60",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0588",
+    "level": "medium",
+    "soal": "18 ÷ 6 = ?",
+    "jawaban": "3",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0589",
+    "level": "medium",
+    "soal": "64 ÷ 8 = ?",
+    "jawaban": "8",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0590",
+    "level": "medium",
+    "soal": "(29 + 6) × 6 = ?",
+    "jawaban": "210",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0591",
+    "level": "medium",
+    "soal": "(49 + 8) × 12 = ?",
+    "jawaban": "684",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0592",
+    "level": "medium",
+    "soal": "5% dari 78 = ?",
+    "jawaban": "3",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0593",
+    "level": "medium",
+    "soal": "(10 + 7) × 20 = ?",
+    "jawaban": "340",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0594",
+    "level": "medium",
+    "soal": "79 + 6 × 11 = ?",
+    "jawaban": "145",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0595",
+    "level": "medium",
+    "soal": "3 × 7 + 43 = ?",
+    "jawaban": "64",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0596",
+    "level": "medium",
+    "soal": "54 ÷ 6 = ?",
+    "jawaban": "9",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0597",
+    "level": "medium",
+    "soal": "25% dari 193 = ?",
+    "jawaban": "48",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0598",
+    "level": "medium",
+    "soal": "98 + 9 × 12 = ?",
+    "jawaban": "206",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0599",
+    "level": "medium",
+    "soal": "(7 + 6) × 20 = ?",
+    "jawaban": "260",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0600",
+    "level": "medium",
+    "soal": "(22 + 1) × 3 = ?",
+    "jawaban": "69",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0601",
+    "level": "medium",
+    "soal": "(28 + 9) × 6 = ?",
+    "jawaban": "222",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0602",
+    "level": "medium",
+    "soal": "4 × 11 + 44 = ?",
+    "jawaban": "88",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0603",
+    "level": "medium",
+    "soal": "(7 + 3) × 3 = ?",
+    "jawaban": "30",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0604",
+    "level": "medium",
+    "soal": "92 + 7 × 12 = ?",
+    "jawaban": "176",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0605",
+    "level": "medium",
+    "soal": "(41 + 1) × 20 = ?",
+    "jawaban": "840",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0606",
+    "level": "medium",
+    "soal": "96 + 9 × 12 = ?",
+    "jawaban": "204",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0607",
+    "level": "medium",
+    "soal": "27 ÷ 9 = ?",
+    "jawaban": "3",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0608",
+    "level": "medium",
+    "soal": "20% dari 45 = ?",
+    "jawaban": "9",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0609",
+    "level": "medium",
+    "soal": "(25 + 5) × 8 = ?",
+    "jawaban": "240",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0610",
+    "level": "medium",
+    "soal": "2 × 4 + 32 = ?",
+    "jawaban": "40",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0611",
+    "level": "medium",
+    "soal": "5% dari 109 = ?",
+    "jawaban": "5",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0612",
+    "level": "medium",
+    "soal": "54 ÷ 6 = ?",
+    "jawaban": "9",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0613",
+    "level": "medium",
+    "soal": "88 + 6 × 16 = ?",
+    "jawaban": "184",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0614",
+    "level": "medium",
+    "soal": "25 + 4 × 3 = ?",
+    "jawaban": "37",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0615",
+    "level": "medium",
+    "soal": "(16 + 8) × 3 = ?",
+    "jawaban": "72",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0616",
+    "level": "medium",
+    "soal": "84 ÷ 12 = ?",
+    "jawaban": "7",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0617",
+    "level": "medium",
+    "soal": "10 × 10 + 19 = ?",
+    "jawaban": "119",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0618",
+    "level": "medium",
+    "soal": "48 ÷ 4 = ?",
+    "jawaban": "12",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0619",
+    "level": "medium",
+    "soal": "56 + 10 × 8 = ?",
+    "jawaban": "136",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0620",
+    "level": "medium",
+    "soal": "5 × 4 + 16 = ?",
+    "jawaban": "36",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0621",
+    "level": "medium",
+    "soal": "(6 + 6) × 18 = ?",
+    "jawaban": "216",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0622",
+    "level": "medium",
+    "soal": "25% dari 104 = ?",
+    "jawaban": "26",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0623",
+    "level": "medium",
+    "soal": "5% dari 43 = ?",
+    "jawaban": "2",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0624",
+    "level": "medium",
+    "soal": "6 × 8 + 46 = ?",
+    "jawaban": "94",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0625",
+    "level": "medium",
+    "soal": "(38 + 7) × 14 = ?",
+    "jawaban": "630",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0626",
+    "level": "medium",
+    "soal": "10% dari 28 = ?",
+    "jawaban": "2",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0627",
+    "level": "medium",
+    "soal": "36 ÷ 12 = ?",
+    "jawaban": "3",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0628",
+    "level": "medium",
+    "soal": "(34 + 9) × 12 = ?",
+    "jawaban": "516",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0629",
+    "level": "medium",
+    "soal": "80 + 12 × 19 = ?",
+    "jawaban": "308",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0630",
+    "level": "medium",
+    "soal": "26 + 8 × 17 = ?",
+    "jawaban": "162",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0631",
+    "level": "medium",
+    "soal": "3 × 10 + 10 = ?",
+    "jawaban": "40",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0632",
+    "level": "medium",
+    "soal": "16 ÷ 4 = ?",
+    "jawaban": "4",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0633",
+    "level": "medium",
+    "soal": "35 ÷ 5 = ?",
+    "jawaban": "7",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0634",
+    "level": "medium",
+    "soal": "5% dari 82 = ?",
+    "jawaban": "4",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0635",
+    "level": "medium",
+    "soal": "60 ÷ 5 = ?",
+    "jawaban": "12",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0636",
+    "level": "medium",
+    "soal": "10% dari 80 = ?",
+    "jawaban": "8",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0637",
+    "level": "medium",
+    "soal": "110 ÷ 11 = ?",
+    "jawaban": "10",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0638",
+    "level": "medium",
+    "soal": "10 × 12 + 11 = ?",
+    "jawaban": "131",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0639",
+    "level": "medium",
+    "soal": "10% dari 158 = ?",
+    "jawaban": "15",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0640",
+    "level": "medium",
+    "soal": "94 + 11 × 20 = ?",
+    "jawaban": "314",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0641",
+    "level": "medium",
+    "soal": "22 ÷ 11 = ?",
+    "jawaban": "2",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0642",
+    "level": "medium",
+    "soal": "3 × 2 + 42 = ?",
+    "jawaban": "48",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0643",
+    "level": "medium",
+    "soal": "10% dari 77 = ?",
+    "jawaban": "7",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0644",
+    "level": "medium",
+    "soal": "5% dari 116 = ?",
+    "jawaban": "5",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0645",
+    "level": "medium",
+    "soal": "(45 + 9) × 10 = ?",
+    "jawaban": "540",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0646",
+    "level": "medium",
+    "soal": "45 ÷ 9 = ?",
+    "jawaban": "5",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0647",
+    "level": "medium",
+    "soal": "(24 + 8) × 3 = ?",
+    "jawaban": "96",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0648",
+    "level": "medium",
+    "soal": "4 × 9 + 27 = ?",
+    "jawaban": "63",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0649",
+    "level": "medium",
+    "soal": "(34 + 4) × 11 = ?",
+    "jawaban": "418",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0650",
+    "level": "medium",
+    "soal": "20% dari 46 = ?",
+    "jawaban": "9",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0651",
+    "level": "medium",
+    "soal": "56 ÷ 7 = ?",
+    "jawaban": "8",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0652",
+    "level": "medium",
+    "soal": "57 + 10 × 18 = ?",
+    "jawaban": "237",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0653",
+    "level": "medium",
+    "soal": "7 × 5 + 30 = ?",
+    "jawaban": "65",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0654",
+    "level": "medium",
+    "soal": "6 × 9 + 16 = ?",
+    "jawaban": "70",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0655",
+    "level": "medium",
+    "soal": "22 + 2 × 10 = ?",
+    "jawaban": "42",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0656",
+    "level": "medium",
+    "soal": "(44 + 7) × 8 = ?",
+    "jawaban": "408",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0657",
+    "level": "medium",
+    "soal": "51 + 11 × 11 = ?",
+    "jawaban": "172",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0658",
+    "level": "medium",
+    "soal": "30 + 9 × 17 = ?",
+    "jawaban": "183",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0659",
+    "level": "medium",
+    "soal": "(36 + 5) × 16 = ?",
+    "jawaban": "656",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0660",
+    "level": "medium",
+    "soal": "3 × 8 + 33 = ?",
+    "jawaban": "57",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0661",
+    "level": "medium",
+    "soal": "(20 + 4) × 19 = ?",
+    "jawaban": "456",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0662",
+    "level": "medium",
+    "soal": "4 ÷ 2 = ?",
+    "jawaban": "2",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0663",
+    "level": "medium",
+    "soal": "99 ÷ 9 = ?",
+    "jawaban": "11",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0664",
+    "level": "medium",
+    "soal": "(23 + 9) × 1 = ?",
+    "jawaban": "32",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0665",
+    "level": "medium",
+    "soal": "8 × 4 + 17 = ?",
+    "jawaban": "49",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0666",
+    "level": "medium",
+    "soal": "56 ÷ 8 = ?",
+    "jawaban": "7",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0667",
+    "level": "medium",
+    "soal": "8 × 2 + 37 = ?",
+    "jawaban": "53",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0668",
+    "level": "medium",
+    "soal": "20% dari 59 = ?",
+    "jawaban": "11",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0669",
+    "level": "medium",
+    "soal": "5% dari 83 = ?",
+    "jawaban": "4",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0670",
+    "level": "medium",
+    "soal": "(37 + 8) × 18 = ?",
+    "jawaban": "810",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0671",
+    "level": "medium",
+    "soal": "132 ÷ 11 = ?",
+    "jawaban": "12",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0672",
+    "level": "medium",
+    "soal": "10% dari 40 = ?",
+    "jawaban": "4",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0673",
+    "level": "medium",
+    "soal": "8 × 7 + 22 = ?",
+    "jawaban": "78",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0674",
+    "level": "medium",
+    "soal": "10% dari 103 = ?",
+    "jawaban": "10",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0675",
+    "level": "medium",
+    "soal": "87 + 10 × 13 = ?",
+    "jawaban": "217",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0676",
+    "level": "medium",
+    "soal": "5% dari 20 = ?",
+    "jawaban": "1",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0677",
+    "level": "medium",
+    "soal": "4 × 7 + 31 = ?",
+    "jawaban": "59",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0678",
+    "level": "medium",
+    "soal": "10% dari 126 = ?",
+    "jawaban": "12",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0679",
+    "level": "medium",
+    "soal": "10% dari 141 = ?",
+    "jawaban": "14",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0680",
+    "level": "medium",
+    "soal": "77 ÷ 11 = ?",
+    "jawaban": "7",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0681",
+    "level": "medium",
+    "soal": "60 + 11 × 10 = ?",
+    "jawaban": "170",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0682",
+    "level": "medium",
+    "soal": "25% dari 96 = ?",
+    "jawaban": "24",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0683",
+    "level": "medium",
+    "soal": "25% dari 86 = ?",
+    "jawaban": "21",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0684",
+    "level": "medium",
+    "soal": "7 × 7 + 44 = ?",
+    "jawaban": "93",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0685",
+    "level": "medium",
+    "soal": "8 × 11 + 20 = ?",
+    "jawaban": "108",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0686",
+    "level": "medium",
+    "soal": "11 × 9 + 17 = ?",
+    "jawaban": "116",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0687",
+    "level": "medium",
+    "soal": "10% dari 157 = ?",
+    "jawaban": "15",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0688",
+    "level": "medium",
+    "soal": "11 × 9 + 11 = ?",
+    "jawaban": "110",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0689",
+    "level": "medium",
+    "soal": "25% dari 171 = ?",
+    "jawaban": "42",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0690",
+    "level": "medium",
+    "soal": "97 + 5 × 2 = ?",
+    "jawaban": "107",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0691",
+    "level": "medium",
+    "soal": "5% dari 189 = ?",
+    "jawaban": "9",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0692",
+    "level": "medium",
+    "soal": "12 + 9 × 11 = ?",
+    "jawaban": "111",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0693",
+    "level": "medium",
+    "soal": "(14 + 7) × 7 = ?",
+    "jawaban": "147",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0694",
+    "level": "medium",
+    "soal": "(37 + 10) × 16 = ?",
+    "jawaban": "752",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0695",
+    "level": "medium",
+    "soal": "4 × 10 + 14 = ?",
+    "jawaban": "54",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0696",
+    "level": "medium",
+    "soal": "25% dari 93 = ?",
+    "jawaban": "23",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0697",
+    "level": "medium",
+    "soal": "20% dari 106 = ?",
+    "jawaban": "21",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0698",
+    "level": "medium",
+    "soal": "68 + 10 × 11 = ?",
+    "jawaban": "178",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0699",
+    "level": "medium",
+    "soal": "20% dari 100 = ?",
+    "jawaban": "20",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0700",
+    "level": "medium",
+    "soal": "10% dari 133 = ?",
+    "jawaban": "13",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0701",
+    "level": "medium",
+    "soal": "45 + 10 × 10 = ?",
+    "jawaban": "145",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0702",
+    "level": "medium",
+    "soal": "48 + 6 × 7 = ?",
+    "jawaban": "90",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0703",
+    "level": "medium",
+    "soal": "(25 + 8) × 12 = ?",
+    "jawaban": "396",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0704",
+    "level": "medium",
+    "soal": "20% dari 194 = ?",
+    "jawaban": "38",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0705",
+    "level": "medium",
+    "soal": "33 ÷ 3 = ?",
+    "jawaban": "11",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0706",
+    "level": "medium",
+    "soal": "25% dari 107 = ?",
+    "jawaban": "26",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0707",
+    "level": "medium",
+    "soal": "24 ÷ 4 = ?",
+    "jawaban": "6",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0708",
+    "level": "medium",
+    "soal": "6 × 3 + 23 = ?",
+    "jawaban": "41",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0709",
+    "level": "medium",
+    "soal": "(46 + 5) × 16 = ?",
+    "jawaban": "816",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0710",
+    "level": "medium",
+    "soal": "35 + 10 × 9 = ?",
+    "jawaban": "125",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0711",
+    "level": "medium",
+    "soal": "20% dari 188 = ?",
+    "jawaban": "37",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0712",
+    "level": "medium",
+    "soal": "23 + 11 × 19 = ?",
+    "jawaban": "232",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0713",
+    "level": "medium",
+    "soal": "41 + 2 × 17 = ?",
+    "jawaban": "75",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0714",
+    "level": "medium",
+    "soal": "91 + 5 × 2 = ?",
+    "jawaban": "101",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0715",
+    "level": "medium",
+    "soal": "8 × 7 + 46 = ?",
+    "jawaban": "102",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0716",
+    "level": "medium",
+    "soal": "(11 + 3) × 1 = ?",
+    "jawaban": "14",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0717",
+    "level": "medium",
+    "soal": "25% dari 50 = ?",
+    "jawaban": "12",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0718",
+    "level": "medium",
+    "soal": "(35 + 4) × 10 = ?",
+    "jawaban": "390",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0719",
+    "level": "medium",
+    "soal": "72 ÷ 6 = ?",
+    "jawaban": "12",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0720",
+    "level": "medium",
+    "soal": "3 × 12 + 37 = ?",
+    "jawaban": "73",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0721",
+    "level": "medium",
+    "soal": "78 + 2 × 6 = ?",
+    "jawaban": "90",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0722",
+    "level": "medium",
+    "soal": "(16 + 1) × 13 = ?",
+    "jawaban": "221",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0723",
+    "level": "medium",
+    "soal": "(16 + 5) × 2 = ?",
+    "jawaban": "42",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0724",
+    "level": "medium",
+    "soal": "6 × 11 + 39 = ?",
+    "jawaban": "105",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0725",
+    "level": "medium",
+    "soal": "7 × 6 + 30 = ?",
+    "jawaban": "72",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0726",
+    "level": "medium",
+    "soal": "25% dari 144 = ?",
+    "jawaban": "36",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0727",
+    "level": "medium",
+    "soal": "74 + 9 × 9 = ?",
+    "jawaban": "155",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0728",
+    "level": "medium",
+    "soal": "24 + 7 × 6 = ?",
+    "jawaban": "66",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0729",
+    "level": "medium",
+    "soal": "(46 + 5) × 6 = ?",
+    "jawaban": "306",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0730",
+    "level": "medium",
+    "soal": "7 × 6 + 37 = ?",
+    "jawaban": "79",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0731",
+    "level": "medium",
+    "soal": "32 + 11 × 13 = ?",
+    "jawaban": "175",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0732",
+    "level": "medium",
+    "soal": "(37 + 6) × 3 = ?",
+    "jawaban": "129",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0733",
+    "level": "medium",
+    "soal": "(47 + 2) × 6 = ?",
+    "jawaban": "294",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0734",
+    "level": "medium",
+    "soal": "71 + 7 × 8 = ?",
+    "jawaban": "127",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0735",
+    "level": "medium",
+    "soal": "6 × 8 + 16 = ?",
+    "jawaban": "64",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0736",
+    "level": "medium",
+    "soal": "(22 + 6) × 10 = ?",
+    "jawaban": "280",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0737",
+    "level": "medium",
+    "soal": "5% dari 195 = ?",
+    "jawaban": "9",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0738",
+    "level": "medium",
+    "soal": "84 ÷ 12 = ?",
+    "jawaban": "7",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0739",
+    "level": "medium",
+    "soal": "17 + 12 × 4 = ?",
+    "jawaban": "65",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0740",
+    "level": "medium",
+    "soal": "(24 + 3) × 13 = ?",
+    "jawaban": "351",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0741",
+    "level": "medium",
+    "soal": "20% dari 190 = ?",
+    "jawaban": "38",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0742",
+    "level": "medium",
+    "soal": "12 × 6 + 24 = ?",
+    "jawaban": "96",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0743",
+    "level": "medium",
+    "soal": "10% dari 66 = ?",
+    "jawaban": "6",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0744",
+    "level": "medium",
+    "soal": "71 + 4 × 15 = ?",
+    "jawaban": "131",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0745",
+    "level": "medium",
+    "soal": "25% dari 105 = ?",
+    "jawaban": "26",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0746",
+    "level": "medium",
+    "soal": "10% dari 130 = ?",
+    "jawaban": "13",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0747",
+    "level": "medium",
+    "soal": "97 + 11 × 3 = ?",
+    "jawaban": "130",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0748",
+    "level": "medium",
+    "soal": "20% dari 124 = ?",
+    "jawaban": "24",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0749",
+    "level": "medium",
+    "soal": "11 × 3 + 4 = ?",
+    "jawaban": "37",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0750",
+    "level": "medium",
+    "soal": "10% dari 139 = ?",
+    "jawaban": "13",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0751",
+    "level": "medium",
+    "soal": "10% dari 147 = ?",
+    "jawaban": "14",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0752",
+    "level": "medium",
+    "soal": "51 + 10 × 15 = ?",
+    "jawaban": "201",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0753",
+    "level": "medium",
+    "soal": "12 × 5 + 46 = ?",
+    "jawaban": "106",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0754",
+    "level": "medium",
+    "soal": "5% dari 135 = ?",
+    "jawaban": "6",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0755",
+    "level": "medium",
+    "soal": "5% dari 124 = ?",
+    "jawaban": "6",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0756",
+    "level": "medium",
+    "soal": "(13 + 9) × 14 = ?",
+    "jawaban": "308",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0757",
+    "level": "medium",
+    "soal": "(41 + 1) × 18 = ?",
+    "jawaban": "756",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0758",
+    "level": "medium",
+    "soal": "(48 + 5) × 1 = ?",
+    "jawaban": "53",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0759",
+    "level": "medium",
+    "soal": "(21 + 1) × 7 = ?",
+    "jawaban": "154",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0760",
+    "level": "medium",
+    "soal": "5% dari 28 = ?",
+    "jawaban": "1",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0761",
+    "level": "medium",
+    "soal": "(27 + 2) × 18 = ?",
+    "jawaban": "522",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0762",
+    "level": "medium",
+    "soal": "3 × 9 + 3 = ?",
+    "jawaban": "30",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0763",
+    "level": "medium",
+    "soal": "32 ÷ 8 = ?",
+    "jawaban": "4",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0764",
+    "level": "medium",
+    "soal": "92 + 12 × 14 = ?",
+    "jawaban": "260",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0765",
+    "level": "medium",
+    "soal": "72 ÷ 8 = ?",
+    "jawaban": "9",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0766",
+    "level": "medium",
+    "soal": "(29 + 2) × 18 = ?",
+    "jawaban": "558",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0767",
+    "level": "medium",
+    "soal": "93 + 7 × 4 = ?",
+    "jawaban": "121",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0768",
+    "level": "medium",
+    "soal": "78 + 8 × 17 = ?",
+    "jawaban": "214",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0769",
+    "level": "medium",
+    "soal": "38 + 2 × 1 = ?",
+    "jawaban": "40",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0770",
+    "level": "medium",
+    "soal": "108 ÷ 9 = ?",
+    "jawaban": "12",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0771",
+    "level": "medium",
+    "soal": "25% dari 118 = ?",
+    "jawaban": "29",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0772",
+    "level": "medium",
+    "soal": "41 + 9 × 12 = ?",
+    "jawaban": "149",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0773",
+    "level": "medium",
+    "soal": "45 + 5 × 4 = ?",
+    "jawaban": "65",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0774",
+    "level": "medium",
+    "soal": "12 × 8 + 40 = ?",
+    "jawaban": "136",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0775",
+    "level": "medium",
+    "soal": "5 × 5 + 5 = ?",
+    "jawaban": "30",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0776",
+    "level": "medium",
+    "soal": "11 × 2 + 29 = ?",
+    "jawaban": "51",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0777",
+    "level": "medium",
+    "soal": "5% dari 182 = ?",
+    "jawaban": "9",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0778",
+    "level": "medium",
+    "soal": "15 + 8 × 15 = ?",
+    "jawaban": "135",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0779",
+    "level": "medium",
+    "soal": "79 + 5 × 2 = ?",
+    "jawaban": "89",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0780",
+    "level": "medium",
+    "soal": "74 + 6 × 8 = ?",
+    "jawaban": "122",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0781",
+    "level": "medium",
+    "soal": "20% dari 91 = ?",
+    "jawaban": "18",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0782",
+    "level": "medium",
+    "soal": "48 + 4 × 17 = ?",
+    "jawaban": "116",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0783",
+    "level": "medium",
+    "soal": "62 + 6 × 9 = ?",
+    "jawaban": "116",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0784",
+    "level": "medium",
+    "soal": "10 × 11 + 48 = ?",
+    "jawaban": "158",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0785",
+    "level": "medium",
+    "soal": "90 + 12 × 14 = ?",
+    "jawaban": "258",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0786",
+    "level": "medium",
+    "soal": "5% dari 136 = ?",
+    "jawaban": "6",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0787",
+    "level": "medium",
+    "soal": "144 ÷ 12 = ?",
+    "jawaban": "12",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0788",
+    "level": "medium",
+    "soal": "(38 + 6) × 14 = ?",
+    "jawaban": "616",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0789",
+    "level": "medium",
+    "soal": "(14 + 5) × 13 = ?",
+    "jawaban": "247",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0790",
+    "level": "medium",
+    "soal": "78 + 9 × 8 = ?",
+    "jawaban": "150",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0791",
+    "level": "medium",
+    "soal": "48 + 4 × 15 = ?",
+    "jawaban": "108",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0792",
+    "level": "medium",
+    "soal": "10 × 8 + 27 = ?",
+    "jawaban": "107",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0793",
+    "level": "medium",
+    "soal": "10% dari 145 = ?",
+    "jawaban": "14",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0794",
+    "level": "medium",
+    "soal": "(20 + 5) × 7 = ?",
+    "jawaban": "175",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0795",
+    "level": "medium",
+    "soal": "36 ÷ 12 = ?",
+    "jawaban": "3",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0796",
+    "level": "medium",
+    "soal": "(28 + 2) × 18 = ?",
+    "jawaban": "540",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0797",
+    "level": "medium",
+    "soal": "16 + 6 × 13 = ?",
+    "jawaban": "94",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0798",
+    "level": "medium",
+    "soal": "5% dari 164 = ?",
+    "jawaban": "8",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0799",
+    "level": "medium",
+    "soal": "5 × 11 + 47 = ?",
+    "jawaban": "102",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0800",
+    "level": "medium",
+    "soal": "25% dari 65 = ?",
+    "jawaban": "16",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0801",
+    "level": "medium",
+    "soal": "52 + 6 × 1 = ?",
+    "jawaban": "58",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0802",
+    "level": "medium",
+    "soal": "34 + 3 × 16 = ?",
+    "jawaban": "82",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0803",
+    "level": "medium",
+    "soal": "99 + 11 × 7 = ?",
+    "jawaban": "176",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0804",
+    "level": "medium",
+    "soal": "(20 + 9) × 11 = ?",
+    "jawaban": "319",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0805",
+    "level": "medium",
+    "soal": "72 ÷ 8 = ?",
+    "jawaban": "9",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0806",
+    "level": "medium",
+    "soal": "20% dari 176 = ?",
+    "jawaban": "35",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0807",
+    "level": "medium",
+    "soal": "42 ÷ 6 = ?",
+    "jawaban": "7",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0808",
+    "level": "medium",
+    "soal": "25% dari 137 = ?",
+    "jawaban": "34",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0809",
+    "level": "medium",
+    "soal": "9 × 7 + 14 = ?",
+    "jawaban": "77",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0810",
+    "level": "medium",
+    "soal": "56 ÷ 7 = ?",
+    "jawaban": "8",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0811",
+    "level": "medium",
+    "soal": "11 × 5 + 48 = ?",
+    "jawaban": "103",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0812",
+    "level": "medium",
+    "soal": "12 + 6 × 18 = ?",
+    "jawaban": "120",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0813",
+    "level": "medium",
+    "soal": "25% dari 158 = ?",
+    "jawaban": "39",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0814",
+    "level": "medium",
+    "soal": "20 ÷ 4 = ?",
+    "jawaban": "5",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0815",
+    "level": "medium",
+    "soal": "40 ÷ 5 = ?",
+    "jawaban": "8",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0816",
+    "level": "medium",
+    "soal": "25% dari 72 = ?",
+    "jawaban": "18",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0817",
+    "level": "medium",
+    "soal": "20% dari 177 = ?",
+    "jawaban": "35",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0818",
+    "level": "medium",
+    "soal": "108 ÷ 9 = ?",
+    "jawaban": "12",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0819",
+    "level": "medium",
+    "soal": "(34 + 3) × 12 = ?",
+    "jawaban": "444",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0820",
+    "level": "medium",
+    "soal": "27 + 10 × 16 = ?",
+    "jawaban": "187",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0821",
+    "level": "medium",
+    "soal": "79 + 12 × 2 = ?",
+    "jawaban": "103",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0822",
+    "level": "medium",
+    "soal": "5% dari 18 = ?",
+    "jawaban": "0",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0823",
+    "level": "medium",
+    "soal": "2 × 8 + 9 = ?",
+    "jawaban": "25",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0824",
+    "level": "medium",
+    "soal": "18 + 4 × 1 = ?",
+    "jawaban": "22",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0825",
+    "level": "medium",
+    "soal": "74 + 9 × 12 = ?",
+    "jawaban": "182",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0826",
+    "level": "medium",
+    "soal": "11 × 12 + 43 = ?",
+    "jawaban": "175",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0827",
+    "level": "medium",
+    "soal": "25% dari 133 = ?",
+    "jawaban": "33",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0828",
+    "level": "medium",
+    "soal": "2 × 10 + 36 = ?",
+    "jawaban": "56",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0829",
+    "level": "medium",
+    "soal": "(5 + 1) × 17 = ?",
+    "jawaban": "102",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0830",
+    "level": "medium",
+    "soal": "60 ÷ 10 = ?",
+    "jawaban": "6",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0831",
+    "level": "medium",
+    "soal": "10 × 12 + 28 = ?",
+    "jawaban": "148",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0832",
+    "level": "medium",
+    "soal": "23 + 3 × 17 = ?",
+    "jawaban": "74",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0833",
+    "level": "medium",
+    "soal": "40 + 5 × 20 = ?",
+    "jawaban": "140",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0834",
+    "level": "medium",
+    "soal": "20% dari 74 = ?",
+    "jawaban": "14",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0835",
+    "level": "medium",
+    "soal": "24 ÷ 8 = ?",
+    "jawaban": "3",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0836",
+    "level": "medium",
+    "soal": "72 ÷ 8 = ?",
+    "jawaban": "9",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0837",
+    "level": "medium",
+    "soal": "10% dari 72 = ?",
+    "jawaban": "7",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0838",
+    "level": "medium",
+    "soal": "36 ÷ 12 = ?",
+    "jawaban": "3",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0839",
+    "level": "medium",
+    "soal": "3 × 8 + 25 = ?",
+    "jawaban": "49",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0840",
+    "level": "medium",
+    "soal": "(40 + 8) × 2 = ?",
+    "jawaban": "96",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0841",
+    "level": "medium",
+    "soal": "4 × 3 + 32 = ?",
+    "jawaban": "44",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0842",
+    "level": "medium",
+    "soal": "(46 + 6) × 19 = ?",
+    "jawaban": "988",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0843",
+    "level": "medium",
+    "soal": "10 × 2 + 15 = ?",
+    "jawaban": "35",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0844",
+    "level": "medium",
+    "soal": "98 + 11 × 16 = ?",
+    "jawaban": "274",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0845",
+    "level": "medium",
+    "soal": "6 ÷ 2 = ?",
+    "jawaban": "3",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0846",
+    "level": "medium",
+    "soal": "110 ÷ 10 = ?",
+    "jawaban": "11",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0847",
+    "level": "medium",
+    "soal": "4 × 7 + 2 = ?",
+    "jawaban": "30",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0848",
+    "level": "medium",
+    "soal": "85 + 4 × 13 = ?",
+    "jawaban": "137",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0849",
+    "level": "medium",
+    "soal": "6 × 4 + 37 = ?",
+    "jawaban": "61",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0850",
+    "level": "medium",
+    "soal": "82 + 8 × 18 = ?",
+    "jawaban": "226",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0851",
+    "level": "medium",
+    "soal": "32 ÷ 8 = ?",
+    "jawaban": "4",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0852",
+    "level": "medium",
+    "soal": "10 × 7 + 4 = ?",
+    "jawaban": "74",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0853",
+    "level": "medium",
+    "soal": "8 × 5 + 5 = ?",
+    "jawaban": "45",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0854",
+    "level": "medium",
+    "soal": "121 ÷ 11 = ?",
+    "jawaban": "11",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0855",
+    "level": "medium",
+    "soal": "20% dari 111 = ?",
+    "jawaban": "22",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0856",
+    "level": "medium",
+    "soal": "12 × 6 + 29 = ?",
+    "jawaban": "101",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0857",
+    "level": "medium",
+    "soal": "(19 + 6) × 18 = ?",
+    "jawaban": "450",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0858",
+    "level": "medium",
+    "soal": "(32 + 3) × 19 = ?",
+    "jawaban": "665",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0859",
+    "level": "medium",
+    "soal": "(10 + 10) × 10 = ?",
+    "jawaban": "200",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0860",
+    "level": "medium",
+    "soal": "19 + 3 × 9 = ?",
+    "jawaban": "46",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0861",
+    "level": "medium",
+    "soal": "58 + 12 × 5 = ?",
+    "jawaban": "118",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0862",
+    "level": "medium",
+    "soal": "(25 + 6) × 4 = ?",
+    "jawaban": "124",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0863",
+    "level": "medium",
+    "soal": "2 × 6 + 29 = ?",
+    "jawaban": "41",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0864",
+    "level": "medium",
+    "soal": "18 ÷ 6 = ?",
+    "jawaban": "3",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0865",
+    "level": "medium",
+    "soal": "21 + 4 × 14 = ?",
+    "jawaban": "77",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0866",
+    "level": "medium",
+    "soal": "(40 + 9) × 17 = ?",
+    "jawaban": "833",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0867",
+    "level": "medium",
+    "soal": "(11 + 1) × 3 = ?",
+    "jawaban": "36",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0868",
+    "level": "medium",
+    "soal": "30 ÷ 10 = ?",
+    "jawaban": "3",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0869",
+    "level": "medium",
+    "soal": "20% dari 163 = ?",
+    "jawaban": "32",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0870",
+    "level": "medium",
+    "soal": "(5 + 5) × 14 = ?",
+    "jawaban": "140",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0871",
+    "level": "medium",
+    "soal": "(10 + 9) × 8 = ?",
+    "jawaban": "152",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0872",
+    "level": "medium",
+    "soal": "10% dari 143 = ?",
+    "jawaban": "14",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0873",
+    "level": "medium",
+    "soal": "(15 + 3) × 9 = ?",
+    "jawaban": "162",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0874",
+    "level": "medium",
+    "soal": "54 ÷ 6 = ?",
+    "jawaban": "9",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0875",
+    "level": "medium",
+    "soal": "18 + 4 × 14 = ?",
+    "jawaban": "74",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0876",
+    "level": "medium",
+    "soal": "48 ÷ 8 = ?",
+    "jawaban": "6",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0877",
+    "level": "medium",
+    "soal": "(9 + 6) × 9 = ?",
+    "jawaban": "135",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0878",
+    "level": "medium",
+    "soal": "90 + 9 × 20 = ?",
+    "jawaban": "270",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0879",
+    "level": "medium",
+    "soal": "25% dari 60 = ?",
+    "jawaban": "15",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0880",
+    "level": "medium",
+    "soal": "4 × 6 + 1 = ?",
+    "jawaban": "25",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0881",
+    "level": "medium",
+    "soal": "(26 + 10) × 13 = ?",
+    "jawaban": "468",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0882",
+    "level": "medium",
+    "soal": "63 ÷ 9 = ?",
+    "jawaban": "7",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0883",
+    "level": "medium",
+    "soal": "(46 + 10) × 5 = ?",
+    "jawaban": "280",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0884",
+    "level": "medium",
+    "soal": "77 ÷ 7 = ?",
+    "jawaban": "11",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0885",
+    "level": "medium",
+    "soal": "71 + 7 × 6 = ?",
+    "jawaban": "113",
+    "deskripsi": "Perhatikan urutan operasi (perkalian sebelum penjumlahan)"
+  },
+  {
+    "id": "Q0886",
+    "level": "medium",
+    "soal": "(25 + 5) × 16 = ?",
+    "jawaban": "480",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0887",
+    "level": "medium",
+    "soal": "20% dari 72 = ?",
+    "jawaban": "14",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0888",
+    "level": "medium",
+    "soal": "(22 + 7) × 12 = ?",
+    "jawaban": "348",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0889",
+    "level": "medium",
+    "soal": "11 × 5 + 38 = ?",
+    "jawaban": "93",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  },
+  {
+    "id": "Q0890",
+    "level": "medium",
+    "soal": "5% dari 56 = ?",
+    "jawaban": "2",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0891",
+    "level": "medium",
+    "soal": "(50 + 4) × 15 = ?",
+    "jawaban": "810",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0892",
+    "level": "medium",
+    "soal": "24 ÷ 3 = ?",
+    "jawaban": "8",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0893",
+    "level": "medium",
+    "soal": "(13 + 5) × 8 = ?",
+    "jawaban": "144",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0894",
+    "level": "medium",
+    "soal": "48 ÷ 12 = ?",
+    "jawaban": "4",
+    "deskripsi": "Pembagian dengan hasil bulat"
+  },
+  {
+    "id": "Q0895",
+    "level": "medium",
+    "soal": "(29 + 2) × 15 = ?",
+    "jawaban": "465",
+    "deskripsi": "Perhitungan dengan tanda kurung"
+  },
+  {
+    "id": "Q0896",
+    "level": "medium",
+    "soal": "25% dari 132 = ?",
+    "jawaban": "33",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0897",
+    "level": "medium",
+    "soal": "25% dari 139 = ?",
+    "jawaban": "34",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0898",
+    "level": "medium",
+    "soal": "20% dari 19 = ?",
+    "jawaban": "3",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0899",
+    "level": "medium",
+    "soal": "5% dari 162 = ?",
+    "jawaban": "8",
+    "deskripsi": "Persentase pembulatan ke bilangan bulat (jika berlaku)"
+  },
+  {
+    "id": "Q0900",
+    "level": "medium",
+    "soal": "5 × 12 + 43 = ?",
+    "jawaban": "103",
+    "deskripsi": "Campuran perkalian dan penjumlahan"
+  }
+]
